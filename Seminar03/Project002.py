@@ -10,19 +10,18 @@
 def fill_list():
     result = []
     while True:
-        str = input("Введите элемент листа (Нажмите 'Enter', чтобы закончить): ")
-        if str.isdigit():
-            result.append(int(str))
-        elif str.replace(".", "", 1).isdigit():
-            result.append(float(str))
-        elif str:
+        string = input("Введите элемент листа (Нажмите 'Enter', чтобы закончить): ")
+        if string.isdigit():
+            result.append(int(string))
+        elif string.replace(".", "", 1).isdigit():
+            result.append(float(string))
+        elif string:
             print("Введено не число. Строка не попала в лист")
-        if not str:
+        if not string:
             return result
 
 
 print("Полученный список: ", lst := fill_list())
 
-print("Произведение пар чисел списка: ", list(lst[i] * lst[-i-1] for i in range(
-    len(lst) // 2 + len(lst) % 2)))
+print("Произведение пар чисел списка: ", list(lst[i] * lst[-i-1] for i in range((len(lst) + 1) // 2)))
 
