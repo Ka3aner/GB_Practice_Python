@@ -2,19 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4718eef-127a-49b2-9c44-ae8903502ba1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Seminar04/Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar04/Project001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar04/Project002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar04/Project003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar04/Project004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar04/Project005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar04/Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar04/input1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar04/input2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar04/output_prog_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_09_10_2022_2_06_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_09_10_2022_2_06_[Changes]1/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_09_10_2022_2_06__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ДЗ.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar03/Project002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar03/Project002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar04/Project004.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar04/Project004.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +27,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Seminar004" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -55,12 +58,13 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\2 четверть\1. Знакомство с языком Python\Семинары\ДЗ\Seminar005" />
       <recent name="C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\2 четверть\1. Знакомство с языком Python\Семинары\ДЗ\Seminar04" />
       <recent name="C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\2 четверть\1. Знакомство с языком Python\Семинары\ДЗ\Seminar02" />
       <recent name="C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\2 четверть\1. Знакомство с языком Python\Семинары\ДЗ\Seminar01" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Project005">
+  <component name="RunManager" selected="Python.Project004">
     <configuration name="Project001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ДЗ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Test" />
         <item itemvalue="Python.Project005" />
         <item itemvalue="Python.Project004" />
         <item itemvalue="Python.Project003" />
         <item itemvalue="Python.Project001" />
-        <item itemvalue="Python.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +217,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
