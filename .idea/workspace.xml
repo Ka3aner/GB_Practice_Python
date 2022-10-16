@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4718eef-127a-49b2-9c44-ae8903502ba1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09_10_2022_21_45_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09_10_2022_21_45__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09_10_2022_21_46_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09_10_2022_21_46__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar05/Project001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar05/Project002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar05/Project003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar05/Project004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar05/input1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar05/output1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar05/Восстановленный.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar05/Сжатый.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_09_10_2022_2_06__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_09_10_2022_2_06__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09_10_2022_21_45__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09_10_2022_21_45__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09_10_2022_21_46__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09_10_2022_21_46__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Seminar004" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,7 +37,6 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Саид/Desktop/GeekBrains/Курс Аналитик Больших данных/2 четверть/1. Знакомство с языком Python/Семинары/ДЗ&quot;,
@@ -69,7 +56,7 @@
       <recent name="C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\2 четверть\1. Знакомство с языком Python\Семинары\ДЗ\Seminar01" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Project003 (1)">
+  <component name="RunManager" selected="Python.Project001">
     <configuration name="Project001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ДЗ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Project004 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Project005" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ДЗ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seminar05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seminar04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seminar05/Project004.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seminar04/Project005.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Project003 (1)" />
-        <item itemvalue="Python.Project004 (1)" />
         <item itemvalue="Python.Project001" />
         <item itemvalue="Python.Project002" />
+        <item itemvalue="Python.Project003 (1)" />
         <item itemvalue="Python.Test" />
+        <item itemvalue="Python.Project005" />
       </list>
     </recent_temporary>
   </component>
