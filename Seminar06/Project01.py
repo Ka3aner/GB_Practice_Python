@@ -51,5 +51,5 @@ value = "(5 + 4 * ((2 + 3) * 7 + 6 * (8 + 9)) - 9)"
 value = "".join(value.split())
 print(f"Исходное выражение: {value}")
 result = parse_expression(value)
-print(f"Решение арифметического выражения: {int(result) if result % 1 == 0 else result }")
+print(f"Решение арифметического выражения: {int(result) if result % 1 == 0 else result}")
 print(f"Проверка через eval: {eval(value)}")

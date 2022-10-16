@@ -56,7 +56,7 @@
       <recent name="C:\Users\Саид\Desktop\GeekBrains\Курс Аналитик Больших данных\2 четверть\1. Знакомство с языком Python\Семинары\ДЗ\Seminar01" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Project01">
+  <component name="RunManager" selected="Python.Project02">
     <configuration name="Project001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ДЗ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,8 +185,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Project01" />
         <item itemvalue="Python.Project02" />
+        <item itemvalue="Python.Project01" />
         <item itemvalue="Python.Project001" />
         <item itemvalue="Python.Project002" />
         <item itemvalue="Python.Project003 (1)" />
