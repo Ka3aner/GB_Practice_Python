@@ -4,7 +4,7 @@ import telebot
 import sympy
 from sympy.core.sympify import SympifyError
 
-bot = telebot.TeleBot('5610928733:AAFnO26zWeEuLjcMBSheiLLtObqH0hOIt_E')
+bot = telebot.TeleBot('Token')
 
 
 @bot.message_handler(commands=["start"])
